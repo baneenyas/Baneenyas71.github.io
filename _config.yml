@@ -2,3 +2,7 @@ title: "موقع بنين الشخصي"
 description: "مدونة شخصية أشارك فيها أفكاري وصوري وتجربتي."
 baseurl: ""
 url: "https://Baneenyas71.github.io"
+
+theme: minima
+plugins:
+  - jekyll-feed
