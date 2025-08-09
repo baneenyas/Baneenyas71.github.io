@@ -1,13 +1,4 @@
 title: "موقع بنين الشخصي"
-email: "your-email@baneenyas71.com"
-description: "مدونة شخصية أشارك فيها أفكاري وصوري وتجربتي في الحياة والتكنولوجيا."
-baseurl: "" # لا تغير هذا إذا تستعمل GitHub Pages
-url: "https://Baneenyas71.github.io" # رابط موقعك
-
-twitter_username: "
-github_username: "Baneenyas71"
-linkedin_username: "
-
-theme: minima
-plugins:
-  - jekyll-feed
+description: "مدونة شخصية أشارك فيها أفكاري وصوري وتجربتي."
+baseurl: ""
+url: "https://Baneenyas71.github.io"
